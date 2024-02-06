@@ -4,4 +4,4 @@ wordcloud
 streamlit
 matplotlib
 pandas
-emoji == 1.7
+emoji~=1.6.3
