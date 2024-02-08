@@ -1,6 +1,5 @@
 # whatsapp-chat-analysis
 A streamlit app to analyze your whatsapp chat
-<p>https://whatsapp-chat-analysis-rajdev12.streamlit.app/</p>
 
 ## Description
 WhatsApp Chat Analysis is a predictive analysis project aimed at extracting insights from WhatsApp chat data. The project preprocesses the chat data, analyzes various statistics, and visualizes the findings to gain valuable insights into the chat activity.
