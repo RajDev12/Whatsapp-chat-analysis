@@ -1,6 +1,6 @@
 # whatsapp-chat-analysis
 A streamlit app to analyze your whatsapp chat
-https://rajdev12.github.io/PortFolio/
+(https://whatsapp-chat-analysis-rajdev12.streamlit.app/)
 
 ## Description
 WhatsApp Chat Analysis is a predictive analysis project aimed at extracting insights from WhatsApp chat data. The project preprocesses the chat data, analyzes various statistics, and visualizes the findings to gain valuable insights into the chat activity.
@@ -85,4 +85,4 @@ The project is continuously updated and maintained on GitHub for further develop
 - Natural Language Processing (NLP) techniques for text analysis and classification.
 
 ## Contributors
-- [Raju Devnath] (https://github.com](https://github.com/RajDev12)https://github.com/RajDev12)
+- [Raju Devnath] (https://github.com](https://github.com/RajDev12)
