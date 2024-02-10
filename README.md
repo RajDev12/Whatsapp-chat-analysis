@@ -1,7 +1,13 @@
 # whatsapp-chat-analysis
-A streamlit app to analyze your whatsapp chat.
-Instruction: Copy the below link and paste it in new tab. <br>
-[WebAppLink]https://whatsapp-chat-analysis-rajdev12.streamlit.app
+A streamlit app to analyze your whatsapp chat. <br>
+Instruction:<ol>
+<li>Copy the below link and paste it in new tab.</li>
+<li>Go to whats app->Select any chat->Option->Export Chat</li>
+<li>Browse the exported .txt file on the WebApp .</li> 
+
+
+</ol><br>
+[WebAppLink](https://whatsapp-chat-analysis-rajdev12.streamlit.app)
 
 ![WebApp Demo](Demo_Screenshot.png)
 
