@@ -5,10 +5,11 @@ Instruction:
 <li>Copy the below link and paste it in new tab.</li>
 <li>Go to whats app->Select any chat->Option->Export Chat</li>
 <li>Browse the exported .txt file on the WebApp .</li> 
-</ol><br>
-(https://whatsapp-chat-analysis-rajdev12.streamlit.app)<br>
+</ol>
+https://whatsapp-chat-analysis-rajdev12.streamlit.app
+<br>
 
-https://whatsapp-chat-analysis-rajdev12.streamlit.app/?embed_options=show_toolbar
+
 
 ![WebApp Demo](Demo_Screenshot.png)
 
