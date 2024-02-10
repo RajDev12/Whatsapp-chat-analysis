@@ -8,7 +8,7 @@ Instruction:
 </ol><br>
 (https://whatsapp-chat-analysis-rajdev12.streamlit.app)<br>
 
-https://whatsapp-chat-analysis-rajdev12.streamlit.app/?embed_options=show_toolbar,show_padding,show_footer,dark_theme,light_theme,show_colored_line
+https://whatsapp-chat-analysis-rajdev12.streamlit.app/?embed_options=show_toolbar
 
 ![WebApp Demo](Demo_Screenshot.png)
 
