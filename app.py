@@ -5,10 +5,17 @@ import seaborn as sns
 
 st.sidebar.title("Whatsapp Chat Analyzer")
 
-uploaded_file = st.sidebar.file_uploader("Choose a file")
+# uploaded_file = st.sidebar.file_uploader("Choose a file")
+# if uploaded_file is not None:
+#     bytes_data = uploaded_file.getvalue()
+#     data = bytes_data.decode("utf-8")
+#     df = preprocessor.preprocess(data)
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
-    data = bytes_data.decode("utf-8")
+    try:
+        data = bytes_data.decode("utf-8")  # Try decoding using UTF-8
+    except UnicodeDecodeError:
+        data = bytes_data.decode("utf-16")  # If decoding as UTF-8 fails, try UTF-16
     df = preprocessor.preprocess(data)
 
     # fetch unique users
