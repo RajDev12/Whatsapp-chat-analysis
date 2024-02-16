@@ -99,4 +99,4 @@ The project is continuously updated and maintained on GitHub for further develop
 - Natural Language Processing (NLP) techniques for text analysis and classification.
 
 ## Contributors
-- [Raju Devnath] (https://github.com](https://github.com/RajDev12)
+- [Raju Devnath] (https://github.com/RajDev12)
