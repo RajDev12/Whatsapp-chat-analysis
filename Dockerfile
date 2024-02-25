@@ -7,8 +7,14 @@ WORKDIR /app
 # Copy the application files into the working directory
 COPY . /app
 
+# Create a virtual environment
+RUN python -m venv /venv
+
+# Activate the virtual environment
+ENV PATH="/venv/bin:$PATH"
+
 # Install the application dependencies
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose the port number
 EXPOSE 8501
