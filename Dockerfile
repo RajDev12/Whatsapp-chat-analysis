@@ -3,13 +3,16 @@ FROM python:3.7-slim
 WORKDIR /app
 
 RUN apt-get update && apt-get install -y \
+    apt-utils \
     build-essential \
     curl \
-    software-properties-common \
     git \
+    software-properties-common \
     && rm -rf /var/lib/apt/lists/*
 
+
 RUN git clone https://github.com/RajDev12/whatsapp-chat-analysis/ /app
+
 
 
 RUN pip3 install -r requirements.txt
