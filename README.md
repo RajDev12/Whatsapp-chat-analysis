@@ -7,8 +7,8 @@ Instruction:
 <li>Browse the exported .txt file on the WebApp .</li> 
 </ol>
 
-[https://whatsapp-chat-analysis-rajdev12.streamlit.app](https://what-chat.streamlit.app/)
 
+https://what-chat.streamlit.app/
 
 
 
